@@ -1,5 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently fresher<br>🌱 I’m currently learning web development<br>
+Frontend Developer with strong expertise in React.js, JavaScript, and modern web technologies. Proven ability to build responsive, user-centric applications and optimize performance. Passionate about creating intuitive interfaces and solving complex technical challenges through clean, scalable code.<br>
 
 
 ## 🌐 Socials:
